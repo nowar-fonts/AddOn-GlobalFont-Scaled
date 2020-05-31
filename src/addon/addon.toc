@@ -1,7 +1,7 @@
 ## Interface: 90001
 
 ## Title: __REPLACE_IN_BUILD__ADDON_NAME__
-## Notes: Unified font for all supported languages.
+## Notes: War Sans font pack, with scaled characters to match WoW’s default font size.
 
 ## Version: 9.0.1-alpha1
 ## Author: Cyano Hao

@@ -1,5 +1,4 @@
 local _, GlobalFont = ...
-GlobalFont.Locale = GetLocale()
 
 GlobalFont.DefaultFont = [[Interface\AddOns\__REPLACE_IN_BUILD__DIRECTORY__\text.otf]]
 GlobalFont.ChatFont = [[Interface\AddOns\__REPLACE_IN_BUILD__DIRECTORY__\chat.otf]]
